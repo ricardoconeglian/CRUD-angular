@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": "5.60"
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansumg S20",
+      "price": 5000
+    },
+    {
+      "name": "Bone",
+      "price": "130.00",
+      "id": 4
+    },
+    {
+      "name": "suco",
+      "price": "1.50",
+      "id": 7
+    },
+    {
+      "name": "Cerveja",
+      "price": "2.65",
+      "id": 8
+    },
+    {
+      "name": "Celular",
+      "price": "1500.00",
+      "id": 9
+    }
+  ]
+}

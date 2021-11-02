@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo{
+    max-height: 32px;
+}
+
+.header .material-icons{
+    padding-left: 15px;
+}
+
+.header .material-icons i{
+    padding-right: 5px;
+}
